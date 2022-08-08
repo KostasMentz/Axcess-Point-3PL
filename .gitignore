@@ -1,0 +1,6 @@
+**/.al*
+**/.vscode/*
+!**/.vscode/launch.json
+*.app
+.DS_Store
+Thumbs.db

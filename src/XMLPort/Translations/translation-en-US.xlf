@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="XmlPort 3286166044 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item could not be translated.\\ConsumerPackageCode: %1\BuyerPartNumber: %2\VendorPartNumber: %3</source>
+          <target>Item could not be translated.\\ConsumerPackageCode: %1\BuyerPartNumber: %2\VendorPartNumber: %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer could not be translated.\TradingPartnerID: %1\Vendor: %2\AddressLocationNumber: %3</source>
+          <target>Customer could not be translated.\TradingPartnerID: %1\Vendor: %2\AddressLocationNumber: %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Charge could not be translated.\AllowChrgHandlingCode: %1</source>
+          <target>Charge could not be translated.\AllowChrgHandlingCode: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AddressLocationNumber %1 can not be translated to a valid Ship-to Code.</source>
+          <target>AddressLocationNumber %1 can not be translated to a valid Ship-to Code.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - Method 3136990302 - NamedType 4198080758" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 already exist on %3 %4 %5.</source>
+          <target>%1 %2 already exist on %3 %4 %5.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - Method CheckForDuplicateExtDocNo - NamedType _text000</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - Method 227188415 - NamedType 4198080758" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validate Unit Price</source>
+          <target>Validate Unit Price</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - Method ValidateUnitPrice - NamedType _text000</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - Method 227188415 - NamedType 3560384141" size-unit="char" translate="yes" xml:space="preserve">
+          <source>For Item %1, line %2 the EDI Unit Price (%3) is different than the system defined Unit Price (%4). </source>
+          <target>For Item %1, line %2 the EDI Unit Price (%3) is different than the system defined Unit Price (%4). </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - Method ValidateUnitPrice - NamedType _text001</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - Method 227188415 - NamedType 2922687524" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use &amp;EDI Price,Use &amp;NAV Price,Use EDI &amp;Price on all lines,&amp;Use NAV Price on all lines</source>
+          <target>Use &amp;EDI Price,Use &amp;NAV Price,Use EDI &amp;Price on all lines,&amp;Use NAV Price on all lines</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - Method ValidateUnitPrice - NamedType _text002</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - Method 227188415 - NamedType 4229439215" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use EDI Price</source>
+          <target>Use EDI Price</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - Method ValidateUnitPrice - NamedType _option1</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - Method 227188415 - NamedType 1847561770" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use NAV Price</source>
+          <target>Use NAV Price</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - Method ValidateUnitPrice - NamedType _option2</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - Method 227188415 - NamedType 1209865153" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use EDI Price on all lines</source>
+          <target>Use EDI Price on all lines</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - Method ValidateUnitPrice - NamedType _option3</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3286166044 - Method 227188415 - NamedType 3122955004" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use NAV Price on all lines</source>
+          <target>Use NAV Price on all lines</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SPS Commerce 850 - Method ValidateUnitPrice - NamedType _option4</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

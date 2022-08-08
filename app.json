@@ -1,0 +1,51 @@
+{
+  "id": "3050b611-65fc-402d-9f19-0e1182c37006",
+  "name": "omorovicza",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "7640ba31-2815-4820-afba-404b1f2d177d",
+      "publisher": "Dynavics Ltd",
+      "name": "Generic Lookup",
+      "version": "0.1.5.0"
+      },
+      {
+        "id": "67af4f50-4592-4a4b-892e-25c63ed2d66f",
+        "name": "Order Management",
+        "publisher": "Dynavics Ltd",
+        "version": "0.1.5.32"
+      },
+      {
+        "id": "9fa7f5cb-81cd-4508-93c7-50997fa1908b",
+        "name": "+Mail",
+        "publisher": "Dynavics Ltd",
+        "version": "0.2.0.0"      
+      },
+      {
+        "id": "a7cc90c8-fbe0-4a1e-843e-7212129db9c3",
+        "name": "ftp-integration",
+        "publisher": "Dynavics Ltd",
+        "version": "1.0.0.0"
+      }
+  ],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 60300,
+      "to": 60499
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://omorovicza.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
